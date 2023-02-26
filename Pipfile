@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+requests = "*"
+python-dateutil = "*"
 
 [dev-packages]
 
