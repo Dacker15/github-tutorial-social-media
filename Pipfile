@@ -8,6 +8,7 @@ jupyter = "*"
 requests = "*"
 python-dateutil = "*"
 python-dotenv = "*"
+matplotlib = "*"
 
 [dev-packages]
 
