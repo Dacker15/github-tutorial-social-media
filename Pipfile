@@ -9,6 +9,7 @@ requests = "*"
 python-dateutil = "*"
 python-dotenv = "*"
 matplotlib = "*"
+nbconvert = {extras = ["webpdf"], version = "*"}
 
 [dev-packages]
 

@@ -1,0 +1,4 @@
+{
+  "markdown-pdf.footerTemplate": "<div></div>",
+  "markdown-pdf.headerTemplate": "<div></div>"
+}
